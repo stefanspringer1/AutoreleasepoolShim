@@ -18,3 +18,5 @@ From the source file:
 >A shim for Linux that runs the given block of code.
 >
 >The existence of this shim allows you the use of auto-release pools to optimize memory footprint on Darwin platforms while maintaining compatibility with Linux where this API is not implemented.
+
+Some platforms were added.
